@@ -25,9 +25,6 @@ A ROS1 Melodic container to run Turtlebot2 sims and robot under Ubuntu 22.04 and
 1. Run as root `bash run.bash` to start the container.
 2. Run `roslaunch turtlebot_bringup minimal.launch` to start the robot. (may need to edit rocker launch to map serial port, joystick, usb, etc.)
 
-
 ### TO-DO
 
 1. Add joystick mapping to the container.
-
-
