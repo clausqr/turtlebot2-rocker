@@ -11,7 +11,7 @@ A ROS1 Melodic container to run Turtlebot2 sims and robot under Ubuntu 22.04 and
 ### Building and Running
 
 1. Clone this repo.
-1. Run `rocker build -t ros1-melodic-turtlebot2 .` in the repo folder.
+1. Run `docker build -t ros1-melodic-turtlebot2 .` in the repo folder.
 1. Run `bash run.bash` to start the container.
 
 ### Running the Turtlebot2 simulation
